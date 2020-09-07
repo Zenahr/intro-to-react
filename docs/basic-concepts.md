@@ -21,8 +21,14 @@ Let's go through the reasons anyway:
    Your typical app keeps track of a lot of variables and your UI must _react_ to these changes (see what I did there?). State management code can get pretty messy
 2. React provides a conceptual framework to reason about your app
    React has been built by developers who ran into all well-known problems that software developers of all traits run into (spaghetti, non-testable code, not extensible and much more that I can't mention without wanting to throw up ...). They extracted common problems and created frameworks to think about them in a manageable way. Elaboration below.
-
-
+3. Great ecosystem
+   Since React is a JavaScript-based framework, you get all the perks (and liabilities) of the NPM-ecosystem. Since React is pretty popular, people create cooler wrappers around existing JavaScript packages. You can plug-and-play virtually anything.
+   Some great packages to checkout:
+   - a
+   - b
+   - c
+   - d
+  
 ## Mapping (Classic Applications <---> React)
 
 
